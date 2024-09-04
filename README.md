@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="/Travelgram/assets/home.png" alt="Tela do Site" width="100%">
+  <img src="https://github.com/brendon-sn/Travelgram/blob/main/assets/home.png" alt="Tela do Site" width="100%">
 </p>
 
 ## 🚀 Tecnologias
